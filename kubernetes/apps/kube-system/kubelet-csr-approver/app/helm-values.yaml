@@ -1,0 +1,3 @@
+---
+providerRegex: ^(hekate-01|hekate-02|hekate-03)$
+bypassDnsResolution: true
